@@ -48,7 +48,7 @@ This system automates the gas distribution process, allowing customers to place 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/prawinkumar1506/Gas_Supply_Chain_Management_System.git
+   git clone https://github.com/KRITHIKSAI16/GAS_SUPPLY_CHAIN_MANAGEMENT_SYSTEM.git
    ```
 
 2. Open the project in **NetBeans IDE**.
